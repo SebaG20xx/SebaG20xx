@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebaG20xx
 - 👀 I’m interested in programming and learning about computer engineering
-- 🌱 I’m currently learning computer engineering at UTFSM
-- 💞️ I’m looking to collaborate on everything
+- 🌱 I’m currently learning computer science at UTFSM
+- 💞️ I’m looking to collaborate on everything related to cybersecurity or data parsing
 - 📫 How to reach me, issues on github
 
 <!---
