@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @SebaG20xx
-- 👀 I’m interested in programming and learning about computer science
-- 🌱 I’m currently learning computer science at UTFSM
-- 💞️ I’m looking to collaborate on everything related to cybersecurity or data parsing
-- 📫 How to reach me, issues on github or my email! sguevara@usm.cl
+👋 ¡Hola! Soy @SebaG20xx
+
+👀 Me apasiona la programación y siempre estoy buscando oportunidades para aprender y crecer en el campo de las ciencias de la computación.
+
+🌱 Actualmente, estoy estudiando ciencias de la computación en UTFSM (Universidad Técnica Federico Santa María).
+
+💞️ Me encantaría colaborar en proyectos interesantes y desafiantes que me permitan aplicar mis habilidades en programación y desarrollo.
+
+📫 Si deseas contactarme, no dudes en enviarme un mensaje a través de Github o a mi correo electrónico: sguevara@usm.cl.
 
 <!---
 SebaG20xx/SebaG20xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
