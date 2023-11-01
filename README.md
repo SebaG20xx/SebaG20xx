@@ -2,7 +2,7 @@
 
 👀 Me apasiona la programación y siempre estoy buscando oportunidades para aprender y crecer en el campo de las ciencias de la computación.
 
-🌱 Actualmente, estoy estudiando ciencias de la computación en UTFSM (Universidad Técnica Federico Santa María).
+🌱 Actualmente, estoy estudiando ingeniería en informática en USM (Universidad Técnica Federico Santa María).
 
 💞️ Me encantaría colaborar en proyectos interesantes y desafiantes que me permitan aplicar mis habilidades en programación y desarrollo.
 
