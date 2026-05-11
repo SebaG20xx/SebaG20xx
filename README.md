@@ -1,13 +1,16 @@
-👋 ¡Hola! Soy @SebaG20xx
+### Sebastián, desde Viña del Mar
 
-👀 Me apasiona la programación y siempre estoy buscando oportunidades para aprender y crecer en el campo de las ciencias de la computación.
+De día programo, de noche desarrollo. Backend en Go, infra en Proxmox, y todo lo que se deje abrir con un destornillador o un debug.
 
-🌱 Actualmente, estoy estudiando ingeniería en informática en USM (Universidad Técnica Federico Santa María).
+Estudio Ingeniería en Informática en la USM (sede Viña)
 
-💞️ Me encantaría colaborar en proyectos interesantes y desafiantes que me permitan aplicar mis habilidades en programación y desarrollo.
+#### Cosas que me gustan más de la cuenta
 
-📫 Si deseas contactarme, no dudes en enviarme un mensaje a través de Github o a mi correo electrónico: contacto@sebag20xx.cl.
+Console modding (3DS, Wii, Switch, PS3, PS2), radioafición (CD3TGW), reverse engineering de APKs y un homelab con Proxmox que ya tiene más servicios de los que recuerdo.
 
+#### Contacto
+
+contacto@sebag20xx.cl, o por acá mismo.
 <!---
 SebaG20xx/SebaG20xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
